@@ -23,9 +23,9 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/blender/blender-ar21.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-ar21.svg" alt="Cypress" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Postman_logo.png" alt="Postman" width="40" height="40"/>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Game Development:</h3>
