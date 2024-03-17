@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yunus-emre-%c3%a7etinkaya-557263202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yunus-emre-%c3%a7etinkaya-557263202/" height="30" width="40" /></a>
+<a href="yunus-emre-%c3%a7etinkaya-557263202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yunus-emre-%c3%a7etinkaya-557263202/" height="30" width="40" /></a>
 <a href="https://instagram.com/ye.cetinkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ye.cetinkaya" height="30" width="40" /></a>
 <a href="https://discord.gg/ye.cetinkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ye.cetinkaya" height="30" width="40" /></a>
 </p>
